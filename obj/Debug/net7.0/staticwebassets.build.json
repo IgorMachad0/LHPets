@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8ovhpIDn4aKnQnIHVbhis1mEgU+kLs2bpX7lJT6BORA=",
+  "Source": "LHPetsEntrega",
+  "BasePath": "_content/LHPetsEntrega",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LHPetsEntrega\\wwwroot",
+      "Source": "LHPetsEntrega",
+      "ContentRoot": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\LHPetsEntrega\\wwwroot\\",
+      "BasePath": "_content/LHPetsEntrega",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\LHPetsEntrega\\wwwroot\\index.html",
+      "SourceId": "LHPetsEntrega",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\LHPetsEntrega\\wwwroot\\",
+      "BasePath": "_content/LHPetsEntrega",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

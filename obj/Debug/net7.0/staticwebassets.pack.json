@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\LHPetsEntrega\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LHPetsEntrega.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LHPetsEntrega.props",
+      "PackagePath": "build\\LHPetsEntrega.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LHPetsEntrega.props",
+      "PackagePath": "buildMultiTargeting\\LHPetsEntrega.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LHPetsEntrega.props",
+      "PackagePath": "buildTransitive\\LHPetsEntrega.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,13 @@
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\LHPetsEntrega.exe
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\appsettings.Development.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\appsettings.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\LHPetsEntrega.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\LHPetsEntrega.deps.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\LHPetsEntrega.runtimeconfig.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\LHPetsEntrega.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\LHPetsEntrega\bin\release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
